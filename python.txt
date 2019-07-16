@@ -1,0 +1,16 @@
+1. Python is neither a pure compiled or pure interpreted language but it is called as interpreted language.
+2. Python is dynamically typed, this means that you don’t need to state the types of variables when you declare them or anything like that.
+3. Python is well suited to object orientated programming but it is not completely object-oriented as it contains some procedural functions.
+4. Procedural --> the entire code is written into one long procedure. It is not manageable as both data and logic get mixed together.
+5. Object Oriented --> the program is split into self-contained objects or several mini-programs. 
+   Each object is representing a different part of the application which has its own data and logic to communicate among themselves.
+6. Lists are mutable, Tuples are immutable
+7. Accessing elements from Lists is slower where as faster in Tuples.
+8. Compiled languages has its code translation before hand imean before runtime. 
+9. Interpreted --> The complete code is not in machine level before runtime. 
+   Translation of code occurs at the time of execution.
+10. PEP stands for Python Enhancement Proposal. 
+    It is set of rules that specify the format of the code.
+11. Classes contain data members, but they can also contain functions as members.
+    Namespace is simply an abstract way of grouping items together.
+    It checks whether the names are unique to avoid naming conflicts.
