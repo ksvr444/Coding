@@ -1,0 +1,65 @@
+Digital currencies:
+-> currency available in digital form, virtual currency
+-> instantaneous transaction
+-> avoids risk of losing money during transport
+-> Litecoin
+-> Etherium
+-> Digital currencies use blockchain technology. A blockchain is simply a decentralised 	database that all users share. There is no central server and nobody owns the data but 	everyone in the blockchain has access to all the data in the blockchain.
+->Users earn or create blocks (units) in a digital currency by solving complex 	cryptographic puzzles and verifying transactions, also known as mining. This is a 	difficult process that requires significant computing power. Blocks are then added to a 	blockchain where they can be used for electronic peer-to-peer payments. The blockchain 	tracks ownership of each currency unit and holds a history of every transaction ever 			made on the blockchain.
+-> Reduced Transaction costs
+-> High security
+
+
+Internet of Things
+-> The internet of things, or IoT, is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
+-> IoT has evolved from the convergence of wireless technologies, microelectromechanical systems (MEMS), microservices and the internet
+-> IoT evolved from machine-to-machine (M2M) communication, i.e., machines connecting to each other via a network without human interaction. M2M refers to connecting a device to the cloud, managing it and collecting data.
+-> Taking M2M to the next level, IoT is a sensor network of billions of smart devices that connect people, systems and other applications to collect and share data. As its foundation, M2M offers the connectivity that enables IoT.
+-> The internet of things helps people live and work smarter as well as gain complete control over their lives. 
+-> As the number of connected devices increases and more information is shared between devices, the potential that a hacker could steal confidential information also increases.
+-> If there’s a bug in the system, it’s likely that every connected device will become corrupted.
+
+
+Block chain:
+-> Blockchain can be defined as a chain of the block that contains information.
+-> The blockchain is used for the secure transfer of items like money, property, contracts, etc. without requiring a third-party intermediary like bank or government. Once a data is recorded inside a blockchain, it is very difficult to change it. 
+
+
+Artificial Intelligence:
+-> providing intelligence to the machines, computer systems.
+-> includes learing(gaining knowledge), reasoning(getting conclusions), self correction
+-> subsets of AI: Machine learning, Big data, Natural language processing
+-> Artificial narrow intelligence: perform single tasks smartly. Voice assistent.
+-> Artificial general intelligence: its intelligence can be applied for various tasks,learn and improves itself than ANI. alphaGo.
+-> Artificial super intellligence: more powerful and sohisticated than human intelligence.Thinks about abstractions which are impossible to think about humans.
+
+
+Machine Learning:
+-> scientific study of algorithms and statistical models to perform a specific task.
+-> 80% input is given to algorithm for the logic == training
+-> 20% input is given to logic for the desired output == testing
+-> supervised learning: labelled data, under supervisor, classification, regression.
+-> unsupervised learning: unlabelled data, no need of supervisor, association, clustering.
+
+
+Natural language processing:
+-> transforming structured data into natural language.
+-> syntactic and semantic analysis are the techniques used for NLP.
+-> syntactic analysis assess language based on gramatical rules, parsing, segmentation
+-> semantic analysis involves use and meaning behind words, heplps in forming structures
+
+
+Big data:
+-> dealing huge amounts of data
+-> structured-organized data(rows and cols, rdbms), unstructured-not organized(emails, multimedia data), semi structured-structured data not obeying formal structure(csv, xml, json)
+-> hadoop is collection of software utilities involves solving complex problems dealing with large amounts of data.
+-> hadoop distributed file system is a primary data storage for hadoop applications.high performance access to data.
+-> tools-hive, pig, sqoop
+-> hive is DWH infrastructure tool to process structured data in hadoop(SQL engine)
+-> pig tool process all kinds of data
+-> sqoop exports and imports filesto hadoop to relational databases
+
+
+Face Recognition:
+-> identifying and verifying a person from a digital image.
+-> eigen faces, local binary pattern histogram, fisher faces, scale invariant feature transform, speed up robust features
